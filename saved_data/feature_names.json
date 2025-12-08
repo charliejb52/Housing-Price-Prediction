@@ -1,1 +1,1 @@
-["OverallQual", "GarageCars", "GarageArea", "FullBath", "TotRmsAbvGrd", "TotalSF", "Age", "AgeSinceRemodel", "Neighborhood", "KitchenQual", "ExterQual", "GarageFinish", "BsmtQual", "CentralAir", "GarageType", "FireplaceQu", "Foundation", "BsmtFinType1"]
+["OverallQual", "GarageCars", "FullBath", "TotRmsAbvGrd", "TotalSF", "AgeSinceRemodel", "KitchenQual", "ExterQual", "GarageFinish", "BsmtQual", "CentralAir", "GarageType", "Foundation", "BsmtFinType1"]
