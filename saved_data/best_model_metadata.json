@@ -1,11 +1,11 @@
 {
   "model_name": "XGB Tuned",
   "model_type": "XGBRegressor",
-  "test_rmse": 0.15008545560678038,
-  "test_mae": 0.10085603871694596,
-  "test_r2": 0.8792909026686391,
-  "test_rmse_dollars": 30208.502916757043,
-  "validation_rmse": 0.14943086286614304,
-  "validation_r2": 0.8549235134114025,
+  "test_rmse": 0.15998450601481512,
+  "test_mae": 0.1110409520421799,
+  "test_r2": 0.8628427920653068,
+  "test_rmse_dollars": 33315.402354632206,
+  "validation_rmse": 0.15217263601646633,
+  "validation_r2": 0.8495509157885743,
   "training_time": 0
 }
