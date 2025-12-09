@@ -35,11 +35,17 @@ Thumbs.db
 # Uncomment if you want to exclude data files
 # data/*.csv
 
-# Model files
-*.pkl
+# Model files (exclude large trained models, but allow preprocessing files)
+# Exclude large model files
+*_model*.pkl
+best_*.pkl
 *.joblib
 *.h5
 *.model
+
+# Allow preprocessing files in saved_data/ directory (needed for notebooks)
+!saved_data/scaler.pkl
+!saved_data/label_encoders.pkl
 
 # Logs
 *.log
